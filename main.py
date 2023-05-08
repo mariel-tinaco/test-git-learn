@@ -6,4 +6,5 @@ print ('More conflict')
 
 # Code goes here
 if __name__ == "__main__":
-    ...
+    print ('Add new commit')
+
